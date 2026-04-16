@@ -337,21 +337,39 @@
     },
 
     {
-        "Name": "Combat Relief 2024",
-        "Author": "AlterAsc",
-        "Id": {
-            "Id": "AlterAsc.CombatRelief",
-            "Type": "UMM"
-        },
-        "Service": {
-            "GitHub": {
-                "Owner": "alterasc",
-                "RepoName": "CombatRelief"
-            }
-        },
-        "About": "This mod suppresses random encounters and automatically wins crusade battles. Either can be disabled in the UMM menu.",
-        "HomepageUrl": "https://github.com/alterasc/CombatRelief",
-        "Tags": [ "Gameplay" ]
+      "Name": "Combat Relief 2024",
+      "Author": "AlterAsc",
+      "Id": {
+        "Id": "AlterAsc.CombatRelief",
+        "Type": "UMM"
+      },
+      "Service": {
+        "GitHub": {
+          "Owner": "alterasc",
+          "RepoName": "CombatRelief"
+        }
+      },
+      "About": "This mod suppresses random encounters and automatically wins crusade battles. Either can be disabled in the UMM menu.",
+      "HomepageUrl": "https://github.com/alterasc/CombatRelief",
+      "Tags": [ "Gameplay" ]
+    },
+
+    {
+      "Name": "Crafting System",
+      "Author": "Tyraen1er",
+      "Id": {
+        "Id": "CraftingSystem",
+        "Type": "UMM"
+      },
+      "Service": {
+        "GitHub": {
+          "Owner": "Tyraen1er",
+          "RepoName": "WOTR-CraftingSystem"
+        }
+      },
+      "About": "Adds an enchanting workshop to Wilcer Garms, allowing you to upgrade items with optional TTRPG-accurate constraints.",
+      "HomepageUrl": "https://github.com/Tyraen1er/WOTR-CraftingSystem",
+      "Tags": [ "UserInterface", "Utilities", "AI_Coded" ]
     },
 
     {
